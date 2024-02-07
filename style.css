@@ -11,11 +11,11 @@ body {
   height: 100%;
   overflow: hidden;
   background-image: url("https://images6.alphacoders.com/740/740272.png");
-  background-size: 100vh 100vh;
   background-size: cover;
   z-index: -1;
   animation: untoldcoding 55s infinite ease-in-out;
 }
+
 
 @keyframes untoldcoding {
   0% {
