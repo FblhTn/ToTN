@@ -10,7 +10,7 @@ body {
   width: 100%;
   height: 100%;
   overflow: hidden;
-  background-image: url("https://images6.alphacoders.com/740/740272.png");
+  background-image: url("https://wallpapers.com/images/hd/weathering-with-you-movie-poster-pb5akvnw3667iiqt.jpg");
   background-size: cover;
   z-index: -1;
   animation: untoldcoding 55s infinite ease-in-out;
@@ -19,16 +19,16 @@ body {
 
 @keyframes untoldcoding {
   0% {
-    background-image: url("https://images6.alphacoders.com/740/740272.png");
+    background-image: url("https://wallpapers.com/images/hd/weathering-with-you-movie-poster-pb5akvnw3667iiqt.jpg");
   }
   25% {
-    background-image: url("https://scontent.fcgp7-1.fna.fbcdn.net/v/t1.6435-9/91707293_865340630585990_924307426302230528_n.jpg?_nc_cat=106&ccb=1-7&_nc_sid=dd63ad&_nc_eui2=AeH_1fbNPVSV6IJb_1RNUKEVpF1mE9ArwYmkXWYT0CvBiUXc79c517u-9mRFGam3yJFUXFYRTBRjuqmbMZgcMKf5&_nc_ohc=uYhNgVnYmHQAX96rXKk&_nc_ht=scontent.fcgp7-1.fna&oh=00_AfBtJdvv8HG_xEBOOZy4uSoMlUToXExVf0YGPWc9e79cKA&oe=65EB0611 ");
+    background-image: url("https://wallpapercave.com/wp/wp13084880.jpg");
   }
   50% {
-    background-image: url("https://wallpapers.com/images/featured/your-name-background-wx3wvekojudwr703.jpg");
+    background-image: url("https://i.pinimg.com/originals/0a/b2/da/0ab2da66fe845ea06e72a99738cfd9bd.jpg");
   }
   80% {
-    background-image: url("https://i.pinimg.com/originals/08/58/65/0858650f5e322615ac1b654ecfa6f9e2.jpg");
+    background-image: url("https://i.pinimg.com/originals/5f/2d/aa/5f2daa0914f356637962e2cde0e7edca.jpg");
   }
 }
 
