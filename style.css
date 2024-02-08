@@ -13,11 +13,11 @@ body {
   background-image: url("https://64.media.tumblr.com/92a73f9d1ed31db6bfff99c2cbd6a230/dde7fee3c771df0e-aa/s540x810/4a6c219316c491079039b68de9c878c8754360ff.jpg");
   background-size: cover;
   z-index: -1;
-  animation: untoldcoding 55s infinite ease-in-out;
+  animation: TN 55s infinite ease-in-out;
 }
 
 
-@keyframes untoldcoding {
+@keyframes TN {
   0% {
     background-image: url("https://64.media.tumblr.com/92a73f9d1ed31db6bfff99c2cbd6a230/dde7fee3c771df0e-aa/s540x810/4a6c219316c491079039b68de9c878c8754360ff.jpg");
   }
